@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Slider */
+.slider {
+    &-gap {
+        gap: 16px;
+    }
+}
